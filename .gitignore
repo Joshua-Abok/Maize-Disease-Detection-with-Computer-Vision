@@ -162,3 +162,5 @@ cython_debug/
 artifacts/*
 data_scraping/images/*
 data_scraping/Pictures/*
+mlruns/*
+scores.json
